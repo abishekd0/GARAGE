@@ -1,0 +1,2 @@
+gadding text to git
+git add test.txt
